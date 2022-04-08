@@ -23,7 +23,7 @@ header{
 .menu1 a:hover{
         color: darkred;
 }
-.inp{
+.search{
         padding: 5px;
     border-radius: 10px;
     border-color: #f1e7e0;
@@ -34,7 +34,7 @@ header{
     margin-top: 18px;
 
 }
-.inp:hover{
+.search:hover{
         background:#978e87 ;
         
 }
